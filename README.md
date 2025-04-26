@@ -1,2 +1,0 @@
-# sportivostyle
-A sportswear website
